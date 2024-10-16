@@ -1,0 +1,45 @@
+D:\My Projects\C# .NET\4 UK System\4UK\4UK Hitachi IJP Remote Interface Program\bin\Debug\4UK Hitachi IJP Remote Interface Program.exe.config
+D:\My Projects\C# .NET\4 UK System\4UK\4UK Hitachi IJP Remote Interface Program\bin\Debug\4UK Hitachi IJP Remote Interface Program.exe
+D:\My Projects\C# .NET\4 UK System\4UK\4UK Hitachi IJP Remote Interface Program\bin\Debug\4UK Hitachi IJP Remote Interface Program.pdb
+D:\My Projects\C# .NET\4 UK System\4UK\4UK Hitachi IJP Remote Interface Program\obj\Debug\4UK Hitachi IJP Remote Interface Program.csprojResolveAssemblyReference.cache
+D:\My Projects\C# .NET\4 UK System\4UK\4UK Hitachi IJP Remote Interface Program\obj\Debug\_4UK_Hitachi_IJP_Remote_Interface_Program.Properties.Resources.resources
+D:\My Projects\C# .NET\4 UK System\4UK\4UK Hitachi IJP Remote Interface Program\obj\Debug\4UK Hitachi IJP Remote Interface Program.csproj.GenerateResource.Cache
+D:\My Projects\C# .NET\4 UK System\4UK\4UK Hitachi IJP Remote Interface Program\obj\Debug\4UK Hitachi IJP Remote Interface Program.exe
+D:\My Projects\C# .NET\4 UK System\4UK\4UK Hitachi IJP Remote Interface Program\obj\Debug\4UK Hitachi IJP Remote Interface Program.pdb
+D:\My Projects\C# .NET\4 UK System\4UK\4UK Hitachi IJP Remote Interface Program\obj\Debug\_4UK_Hitachi_IJP_Remote_Interface_Program.frm_Main.resources
+D:\My Projects\C# .NET\4 UK System\4UK\4UK Hitachi IJP Remote Interface Program\obj\Debug\_4UK_Hitachi_IJP_Remote_Interface_Program.frm_Authentication.resources
+D:\My Projects\C# .NET\4 UK System\4UK\4UK Hitachi IJP Remote Interface Program\obj\Debug\_4UK_Hitachi_IJP_Remote_Interface_Program.frm_COM.resources
+D:\My Projects\C# .NET\4 UK System\4UK\4UK Hitachi IJP Remote Interface Program\obj\Debug\_4UK_Hitachi_IJP_Remote_Interface_Program.frm_EMAILSET.resources
+D:\My Projects\C# .NET\4 UK System\4UK Rev. 2\Source\4UK Hitachi IJP Remote Interface Program\bin\Debug\4UK Hitachi IJP Remote Interface Program.exe.config
+D:\My Projects\C# .NET\4 UK System\4UK Rev. 2\Source\4UK Hitachi IJP Remote Interface Program\obj\Debug\4UK Hitachi IJP Remote Interface Program.exe
+D:\My Projects\C# .NET\4 UK System\4UK Rev. 2\Source\4UK Hitachi IJP Remote Interface Program\obj\Debug\4UK Hitachi IJP Remote Interface Program.pdb
+D:\My Projects\C# .NET\4 UK System\4UK Rev. 2\Source\4UK Hitachi IJP Remote Interface Program\obj\Debug\_4UK_Hitachi_IJP_Remote_Interface_Program.frm_Authentication.resources
+D:\My Projects\C# .NET\4 UK System\4UK Rev. 2\Source\4UK Hitachi IJP Remote Interface Program\obj\Debug\_4UK_Hitachi_IJP_Remote_Interface_Program.frm_CONN.resources
+D:\My Projects\C# .NET\4 UK System\4UK Rev. 2\Source\4UK Hitachi IJP Remote Interface Program\obj\Debug\_4UK_Hitachi_IJP_Remote_Interface_Program.frm_Main.resources
+D:\My Projects\C# .NET\4 UK System\4UK Rev. 2\Source\4UK Hitachi IJP Remote Interface Program\obj\Debug\_4UK_Hitachi_IJP_Remote_Interface_Program.Properties.Resources.resources
+D:\My Projects\C# .NET\4 UK System\4UK Rev. 2\Source\4UK Hitachi IJP Remote Interface Program\obj\Debug\4UK Hitachi IJP Remote Interface Program.csproj.GenerateResource.Cache
+D:\My Projects\C# .NET\4 UK System\4UK Rev. 2\Source\4UK Hitachi IJP Remote Interface Program\bin\Debug\4UK Hitachi IJP Remote Interface Program.exe
+D:\My Projects\C# .NET\4 UK System\4UK Rev. 2\Source\4UK Hitachi IJP Remote Interface Program\bin\Debug\4UK Hitachi IJP Remote Interface Program.pdb
+D:\My Projects\C# .NET\4 UK System\4UK Rev. 2\Source\4UK Hitachi IJP Remote Interface Program\bin\Debug\HitachiIJP.dll
+D:\My Projects\C# .NET\4 UK System\4UK Rev. 2\Source\4UK Hitachi IJP Remote Interface Program\bin\Debug\ModbusTcp.dll
+D:\My Projects\C# .NET\4 UK System\4UK Rev. 2\Source\4UK Hitachi IJP Remote Interface Program\bin\Debug\MemLogger.dll
+D:\MY PROJECTS\C# .NET\RaineRena Hitachi IJP Remote Interface\Source\4UK Hitachi IJP Remote Interface Program\bin\Debug\4UK Hitachi IJP Remote Interface Program.exe.config
+D:\MY PROJECTS\C# .NET\RaineRena Hitachi IJP Remote Interface\Source\4UK Hitachi IJP Remote Interface Program\bin\Debug\4UK Hitachi IJP Remote Interface Program.exe.manifest
+D:\MY PROJECTS\C# .NET\RaineRena Hitachi IJP Remote Interface\Source\4UK Hitachi IJP Remote Interface Program\bin\Debug\4UK Hitachi IJP Remote Interface Program.application
+D:\MY PROJECTS\C# .NET\RaineRena Hitachi IJP Remote Interface\Source\4UK Hitachi IJP Remote Interface Program\bin\Debug\4UK Hitachi IJP Remote Interface Program.exe
+D:\MY PROJECTS\C# .NET\RaineRena Hitachi IJP Remote Interface\Source\4UK Hitachi IJP Remote Interface Program\bin\Debug\4UK Hitachi IJP Remote Interface Program.pdb
+D:\MY PROJECTS\C# .NET\RaineRena Hitachi IJP Remote Interface\Source\4UK Hitachi IJP Remote Interface Program\bin\Debug\HitachiIJP.dll
+D:\MY PROJECTS\C# .NET\RaineRena Hitachi IJP Remote Interface\Source\4UK Hitachi IJP Remote Interface Program\bin\Debug\ModbusTcp.dll
+D:\MY PROJECTS\C# .NET\RaineRena Hitachi IJP Remote Interface\Source\4UK Hitachi IJP Remote Interface Program\bin\Debug\MemLogger.dll
+D:\MY PROJECTS\C# .NET\RaineRena Hitachi IJP Remote Interface\Source\4UK Hitachi IJP Remote Interface Program\obj\Debug\4UK Hitachi IJP Remote Interface Program.csproj.AssemblyReference.cache
+D:\MY PROJECTS\C# .NET\RaineRena Hitachi IJP Remote Interface\Source\4UK Hitachi IJP Remote Interface Program\obj\Debug\_4UK_Hitachi_IJP_Remote_Interface_Program.frm_Authentication.resources
+D:\MY PROJECTS\C# .NET\RaineRena Hitachi IJP Remote Interface\Source\4UK Hitachi IJP Remote Interface Program\obj\Debug\_4UK_Hitachi_IJP_Remote_Interface_Program.frm_CONN.resources
+D:\MY PROJECTS\C# .NET\RaineRena Hitachi IJP Remote Interface\Source\4UK Hitachi IJP Remote Interface Program\obj\Debug\_4UK_Hitachi_IJP_Remote_Interface_Program.frm_Main.resources
+D:\MY PROJECTS\C# .NET\RaineRena Hitachi IJP Remote Interface\Source\4UK Hitachi IJP Remote Interface Program\obj\Debug\_4UK_Hitachi_IJP_Remote_Interface_Program.Properties.Resources.resources
+D:\MY PROJECTS\C# .NET\RaineRena Hitachi IJP Remote Interface\Source\4UK Hitachi IJP Remote Interface Program\obj\Debug\4UK Hitachi IJP Remote Interface Program.csproj.GenerateResource.cache
+D:\MY PROJECTS\C# .NET\RaineRena Hitachi IJP Remote Interface\Source\4UK Hitachi IJP Remote Interface Program\obj\Debug\4UK Hitachi IJP Remote Interface Program.csproj.CoreCompileInputs.cache
+D:\MY PROJECTS\C# .NET\RaineRena Hitachi IJP Remote Interface\Source\4UK Hitachi IJP Remote Interface Program\obj\Debug\4UK Hitachi IJP Remote Interface Program.exe.manifest
+D:\MY PROJECTS\C# .NET\RaineRena Hitachi IJP Remote Interface\Source\4UK Hitachi IJP Remote Interface Program\obj\Debug\4UK Hitachi IJP Remote Interface Program.application
+D:\MY PROJECTS\C# .NET\RaineRena Hitachi IJP Remote Interface\Source\4UK Hitachi IJP Remote Interface Program\obj\Debug\4UK Hita.E9FFCF9A.Up2Date
+D:\MY PROJECTS\C# .NET\RaineRena Hitachi IJP Remote Interface\Source\4UK Hitachi IJP Remote Interface Program\obj\Debug\4UK Hitachi IJP Remote Interface Program.exe
+D:\MY PROJECTS\C# .NET\RaineRena Hitachi IJP Remote Interface\Source\4UK Hitachi IJP Remote Interface Program\obj\Debug\4UK Hitachi IJP Remote Interface Program.pdb
